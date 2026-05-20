@@ -1,0 +1,40 @@
+[
+  { "name": "Beranda", "url": "/" },
+  {
+    "name": "Profil",
+    "submenu": [
+      { "name": "Visi Misi", "url": "/profil/visi-misi/" },
+      { "name": "Struktur Organisasi", "url": "/profil/struktur/" },
+      { "name": "Profil Pengurus", "url": "/profil/pengurus/" },
+      { "name": "Kontak Kami", "url": "/profil/kontak/" }
+    ]
+  },
+  { "name": "Berita", "url": "/berita/" },
+  {
+    "name": "Potensi Desa",
+    "submenu": [
+      { "name": "UMKM", "url": "/potensi/umkm/" },
+      { "name": "Pertanian", "url": "/potensi/pertanian/" },
+      { "name": "Seni Budaya", "url": "/potensi/seni-budaya/" },
+      { "name": "Pendidikan", "url": "/potensi/pendidikan/" },
+      { "name": "Pariwisata", "url": "/potensi/pariwisata/" },
+      { "name": "Olahraga", "url": "/potensi/olahraga/" }
+    ]
+  },
+  {
+    "name": "Diskusi",
+    "submenu": [
+      { "name": "Cegah Hoax", "url": "/diskusi/cegah-hoax/" },
+      { "name": "Aspirasi Warga", "url": "/diskusi/aspirasi/" }
+    ]
+  },
+  {
+    "name": "Kegiatan",
+    "submenu": [
+      { "name": "Rencana Kegiatan", "url": "/kegiatan/rencana/" },
+      { "name": "Laporan Kegiatan", "url": "/kegiatan/laporan/" },
+      { "name": "Kemitraan", "url": "/kegiatan/kemitraan/" }
+    ]
+  },
+  { "name": "Aduan", "url": "/aduan/" }
+]
