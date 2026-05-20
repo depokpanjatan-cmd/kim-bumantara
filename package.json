@@ -1,0 +1,17 @@
+{
+  "name": "kim",
+  "version": "1.0.0",
+  "description": "Website Kelompok Informasi Masyarakat (KIM)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5"
+  }
+}
